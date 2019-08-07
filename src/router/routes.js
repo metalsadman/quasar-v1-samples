@@ -35,14 +35,14 @@ const routes = [
         },
         component: () => import('pages/ComponentSamples/Samples.vue')
       },
-      {
-        path: 'dropdown-extension',
-        meta: {
-          title: 'QBtnDropdown Test'
-        },
-        component: () =>
-          import('pages/ComponentSamples/QBtnDropdownExtension.vue')
-      }
+      // {
+      //   path: 'dropdown-extension',
+      //   meta: {
+      //     title: 'QBtnDropdown Test'
+      //   },
+      //   component: () =>
+      //     import('pages/ComponentSamples/QBtnDropdownExtension.vue')
+      // }
     ]
   },
   {

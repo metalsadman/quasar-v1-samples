@@ -57,7 +57,7 @@
         <q-item-label caption>QTable Extension Sample</q-item-label>
       </q-item-section>
     </q-item>
-    <q-item clickable to="/dropdown-extension">
+    <!-- <q-item clickable to="/dropdown-extension">
       <q-item-section avatar>
         <q-icon name="rss_feed" />
       </q-item-section>
@@ -65,7 +65,7 @@
         <q-item-label>QBtnDropdown Test</q-item-label>
         <q-item-label caption>This is just a drill.</q-item-label>
       </q-item-section>
-    </q-item>
+    </q-item> -->
     <q-item clickable to="/quasar-third-party">
       <q-item-section avatar>
         <q-icon name="rss_feed" />
